@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Vitor Satake ! 👍
+### Olá ! Eu sou o Vitor Satake ! 🚀🚀🚀
 
 
 - 🔭 Atualmente estou em busca de uma oportunidade como Desenvolvedor e Cientista de Dados.
