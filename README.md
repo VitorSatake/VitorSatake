@@ -1,12 +1,14 @@
 ### Olá ! Eu sou o Vitor Satake ! 👍
 
 
-- 🔭 Atualmente estou em busca de uma oportunidade.
+- 🔭 Atualmente estou em busca de uma oportunidade como Desenvolvedor e Cientista de Dados.
 - 🌱 Estudando para Back-end e Ciência de Dados focado em Python.
 - 📫 Contate-me no email: vitor.scastro2013@hotmail.com
 - 😄 Pronouns: ele/dele
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsatake&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsatake&layout=compact)](https://github.com/VitorSatake/github-readme-stats&theme=dracula)
 
 ### Tecnologias que estudo no meu dia:
 
