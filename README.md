@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou em busca de uma oportunidade como Desenvolvedor e Cientista de Dados.
-- 🌱 Estudando para Back-end e Ciência de Dados focado em Python.
+- 🌱 Estudando para Back-end e Ciência de Dados, com foco em linguagem Python.
 - 📫 Contate-me no email: vitor.scastro2013@hotmail.com
 - 😄 Pronouns: ele/dele
 
