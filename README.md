@@ -7,7 +7,7 @@
 - 😄 Pronouns: ele/dele
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsatake&show_icons=true&theme=dracula&hide=issues,prs)
-<img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsatake&layout=compact&langs_count=16&theme=dracula"/>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsatake&layout=compact&langs_count=16&theme=dracula"/>
 
 ### Tecnologias que estudo no meu dia:
 
