@@ -7,7 +7,7 @@
 - 😄 Pronouns: ele/dele
 
 <a href="https://github.com/VitorSatake">
-<img height="175em"  src="https://github-readme-stats.vercel.app/api?username=vitorsatake&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues"/>
+<img height="175cm" width="600" src="https://github-readme-stats.vercel.app/api?username=vitorsatake&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues"/>
 <img height="175cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsatake&layout=compact&langs_count=16&theme=dracula"/>
 
 ### Tecnologias que estudo no meu dia:
