@@ -6,9 +6,8 @@
 - 📫 Contate-me no email: vitor.scastro2013@hotmail.com
 - 😄 Pronouns: ele/dele
 
-<a href="https://github.com/VitorSatake">
-<img height="175cm" width="600" src="https://github-readme-stats.vercel.app/api?username=vitorsatake&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues"/>
-<img height="175cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsatake&layout=compact&langs_count=16&theme=dracula"/>
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsatake&show_icons=true&theme=dracula&hide=issues,prs)
+<img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsatake&layout=compact&langs_count=16&theme=dracula"/>
 
 ### Tecnologias que estudo no meu dia:
 
