@@ -1,8 +1,8 @@
 ### Olá ! Eu sou o Vitor Satake ! 🚀🚀🚀
 
 
-- 🔭 Atualmente estou em busca de uma oportunidade como Desenvolvedor / Cientista de Dados.
-- 🌱 Estudando para Back-end e Ciência de Dados, com foco em linguagem Python.
+- 🔭 Atualmente estou em busca de uma oportunidade como Cloud Solutions / Developer.
+- 🌱 Estudando com foco em AWS, e libguagem de programação Python.
 - 📫 Contate-me no email: vitor.scastro2013@hotmail.com
 - 😄 Pronouns: ele/dele
 
