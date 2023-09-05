@@ -1,8 +1,8 @@
 ### Olá ! Eu sou o Vitor Satake ! 🚀🚀🚀
 
 
-- 🔭 Atualmente estou em busca de uma oportunidade como Cloud Solutions Analyst / Developer.
-- 🌱 Estudando com foco em AWS, e linguagem de programação Python.
+- 🔭 Atualmente estou em busca de uma oportunidade como Devops / Cloud Solutions Analyst / Developer.
+- 🌱 Estudando com foco em AWS, Devops e linguagem de programação Python.
 - 📫 Contate-me no email: vitor.scastro2013@hotmail.com
 
 
