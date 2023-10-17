@@ -16,10 +16,12 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Aws-092E20?style=for-the-badge&logo=amazon&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/docker-ED8B00?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Terraform-092E20?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/php-ED8B00?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-092E20?style=for-the-badge&logo=linux&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/laravel-ED8B00?style=for-the-badge&logo=laravel&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/php-ED8B00?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/laravel-ED8B00?style=for-the-badge&logo=laravel&logoColor=white" />
+  
+  
   
 <div><br/>
