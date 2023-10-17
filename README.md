@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou em busca de uma oportunidade como Devops / Cloud Solutions Analyst / Developer.
 - 🌱 Estudando com foco em AWS, Devops e linguagens de programação PHP (Laravel, HTML, CSS), Java e Python.
-- 📫 Contate-me no email: vitor.scastro2013@hotmail.com
+- 📫 Contate-me no email: vitorsatake.devops@gmail.com
 
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsatake&show_icons=true&theme=radical&hide=issues,prs)
