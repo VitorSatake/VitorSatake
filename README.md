@@ -7,7 +7,7 @@
 
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsatake&show_icons=true&theme=radical&hide=issues,prs)
-<img height="250cm" width="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsatake&layout=compact&langs_count=30&theme=radical"/>
+<img height="150cm" width="250cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsatake&layout=compact&langs_count=30&theme=radical"/>
 
 
 ### Tecnologias que estudo no meu dia:
