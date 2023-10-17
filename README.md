@@ -14,6 +14,7 @@
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Aws-092E20?style=for-the-badge&logo=amazon&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/docker-ED8B00?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Terraform-092E20?style=for-the-badge&logo=terraform&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-092E20?style=for-the-badge&logo=linux&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
