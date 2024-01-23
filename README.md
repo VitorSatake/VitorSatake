@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou estagiando como DevOps.
-- 🌱 Com foco em ferramentas e metodologia Devops, AWS e linguagem de programação Python.
+- 🌱 Com foco em ferramentas e metodologia DevOps, AWS e linguagem de programação Python.
 - 📫 Contate-me no email: vitorsatake.devops@gmail.com
 
 
