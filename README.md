@@ -1,8 +1,8 @@
 ### Olá ! Eu sou o Vitor Satake ! 🚀🚀🚀
 
 
-- 🔭 Atualmente estou em busca de uma oportunidade como Devops / Cloud Solutions Analyst / Developer.
-- 🌱 Estudando com foco em Devops, AWS e linguagem de programação Python.
+- 🔭 Atualmente estou estagiando como DevOps.
+- 🌱 Com foco em ferramentas e metodologia Devops, AWS e linguagem de programação Python.
 - 📫 Contate-me no email: vitorsatake.devops@gmail.com
 
 
