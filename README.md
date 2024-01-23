@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou em busca de uma oportunidade como Devops / Cloud Solutions Analyst / Developer.
-- 🌱 Estudando com foco em AWS, Devops e linguagens de programação PHP (Laravel, HTML, CSS), Java e Python.
+- 🌱 Estudando com foco em Devops, AWS e linguagem de programação Python.
 - 📫 Contate-me no email: vitorsatake.devops@gmail.com
 
 
